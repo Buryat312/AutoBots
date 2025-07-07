@@ -5,4 +5,5 @@ public class Monday {
   // I love git
   // Monday 07.07
   // git pull origin master
+  // git fetch and git merge origin master
 }
