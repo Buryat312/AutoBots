@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7680ff7-29fe-42a6-b5ce-b17bb366c846" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/autobots/java/weekdays/Monday.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/autobots/java/weekdays/Monday.java" afterDir="false" />
-    </list>
+    <list default="true" id="c7680ff7-29fe-42a6-b5ce-b17bb366c846" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
