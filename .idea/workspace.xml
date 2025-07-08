@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7680ff7-29fe-42a6-b5ce-b17bb366c846" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c7680ff7-29fe-42a6-b5ce-b17bb366c846" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,7 +25,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="sultanbek/new-version-4.0.1" />
+        <entry key="$PROJECT_DIR$" value="sultanbek/verion1.0" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -52,27 +50,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.BankDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BankProApp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Demo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Draft.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FindAverageSalary.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FlatMap.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LambdaLesson.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StreamApiLesson.executor&quot;: &quot;Run&quot;,
-    &quot;Application.com.autobots.java.bankApp.Demo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.com.autobots.java.weekdays.Draft.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;sultanbek/verion1.0&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;/home/sultanbek/Desktop/qa_sdet/AutoBots/src/main/java/com/autobots/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.BankDemo.executor": "Run",
+    "Application.BankProApp.executor": "Run",
+    "Application.Demo.executor": "Run",
+    "Application.Draft.executor": "Run",
+    "Application.FindAverageSalary.executor": "Run",
+    "Application.FlatMap.executor": "Run",
+    "Application.LambdaLesson.executor": "Run",
+    "Application.StreamApiLesson.executor": "Run",
+    "Application.com.autobots.java.bankApp.Demo.executor": "Run",
+    "Application.com.autobots.java.weekdays.Draft.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "sultanbek/reset-demo",
+    "onboarding.tips.debug.path": "/home/sultanbek/Desktop/qa_sdet/AutoBots/src/main/java/com/autobots/Main.java",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Application.com.autobots.java.weekdays.Draft">
     <configuration name="BankProApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.autobots.java.mobileBanking.BankProApp" />
