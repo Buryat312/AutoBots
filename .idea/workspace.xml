@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7680ff7-29fe-42a6-b5ce-b17bb366c846" name="Changes" comment="&quot;Version 1.0.3&quot;" />
+    <list default="true" id="c7680ff7-29fe-42a6-b5ce-b17bb366c846" name="Changes" comment="&quot;Version 1.0.3&quot;">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,7 +68,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "sultanbek/reset-demo",
+    "git-widget-placeholder": "Merging sultanbek/reset-demo",
     "onboarding.tips.debug.path": "/home/sultanbek/Desktop/qa_sdet/AutoBots/src/main/java/com/autobots/Main.java",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
